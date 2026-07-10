@@ -106,15 +106,6 @@ This project was created to practice JavaScript logic while building something f
 
 ---
 
-## 👨‍💻 Author
-
-**Surya Pratap**
-
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-
----
-
 ## ⭐ Support
 
 If you enjoyed this project, consider giving it a ⭐ on GitHub.
