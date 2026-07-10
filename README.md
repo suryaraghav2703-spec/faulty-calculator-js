@@ -62,7 +62,7 @@ https://your-live-demo-link.vercel.app
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/faulty-calculator.git
+git clone https://github.com/suryaraghav2703-spec/faulty-calculator-js
 ```
 
 2. Open the project folder.
