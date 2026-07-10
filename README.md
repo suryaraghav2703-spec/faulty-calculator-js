@@ -40,9 +40,9 @@ A fun and interactive calculator built using **HTML5, CSS3, and JavaScript**. Un
 ```
 Faulty-Calculator/
 │
-├── index.html
-├── style.css
-├── script.js
+├── Faulty.html
+├── Faulty.css
+├── Faulty.js
 ├── screenshot.png
 └── README.md
 ```
@@ -53,7 +53,7 @@ Faulty-Calculator/
 
 🌐 Live Website
 
-https://your-live-demo-link.vercel.app
+https://faulty-calculs.netlify.app/
 
 ---
 
